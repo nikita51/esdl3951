@@ -1,4 +1,4 @@
-This is my first file in github
+This is my first file in github and i have cloned it........
 //this comment is added by using new branch
 #include<stdio.h>
 void main()
@@ -14,3 +14,5 @@ int substract(int p,int q)
   return a-b;
 }
 }
+
+
